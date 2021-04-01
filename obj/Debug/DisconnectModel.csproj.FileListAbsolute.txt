@@ -1,0 +1,10 @@
+C:\Users\Elvin\source\repos\Test\DisconnectModel\bin\Debug\DisconnectModel.exe.config
+C:\Users\Elvin\source\repos\Test\DisconnectModel\bin\Debug\DisconnectModel.exe
+C:\Users\Elvin\source\repos\Test\DisconnectModel\bin\Debug\DisconnectModel.pdb
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.csprojAssemblyReference.cache
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.Form1.resources
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.Properties.Resources.resources
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.csproj.GenerateResource.cache
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.exe
+C:\Users\Elvin\source\repos\Test\DisconnectModel\obj\Debug\DisconnectModel.pdb
